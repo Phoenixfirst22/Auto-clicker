@@ -1,5 +1,5 @@
 # Auto-clicker
-Fast auto-clicker for windows
+Fast Python auto-clicker for windows
 # Installation
 
 ```cd file pat```
