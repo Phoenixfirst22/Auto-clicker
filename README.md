@@ -2,7 +2,7 @@
 Fast Python auto-clicker for windows
 # Installation
 
-```cd file pat```
+```cd file path```
 
 ```winget install pip```
 
